@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/mysql-5.1.10.jar"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/flash-selenium.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/microsoft-translator-java-api-0.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/vipulsharma/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
